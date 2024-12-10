@@ -1,0 +1,17 @@
+﻿<wpf:ResourceDictionary xml:space="preserve" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml" xmlns:s="clr-namespace:System;assembly=mscorlib" xmlns:ss="urn:shemas-jetbrains-com:settings-storage-xaml" xmlns:wpf="http://schemas.microsoft.com/winfx/2006/xaml/presentation">
+	<s:String x:Key="/Default/CodeInspection/ExcludedFiles/FilesAndFoldersToSkip2/=7020124F_002D9FFC_002D4AC3_002D8F3D_002DAAB8E0240759_002Ff_003ABasicHttpsBinding_002Ecs_002Fl_003A_002E_002E_003F_002E_002E_003F_002E_002E_003F_002Econfig_003FJetBrains_003FRider2024_002E2_003Fresharper_002Dhost_003FDecompilerCache_003Fdecompiler_003F9792eb5cef0844aab3f3c84190059e4728fdc0_003F0a_003F48f345f7_003FBasicHttpsBinding_002Ecs/@EntryIndexedValue">ForceIncluded</s:String>
+	
+	<s:String x:Key="/Default/Environment/UnitTesting/UnitTestSessionStore/Sessions/=9c11348e_002D3d3c_002D4f0e_002D9026_002D3c9767d81007/@EntryIndexedValue">&lt;SessionState ContinuousTestingMode="0" IsActive="True" Name="Should_Check_Avaibility_Async" xmlns="urn:schemas-jetbrains-com:jetbrains-ut-session"&gt;
+  &lt;TestAncestor&gt;
+    &lt;TestId&gt;NUnit3x::B765C498-C137-4511-8DBC-50210053B540::net8.0::Dna.SoapEndpoint.Tests.Search_Ut.Should_Check_Avaibility_Async&lt;/TestId&gt;
+    &lt;TestId&gt;NUnit3x::B765C498-C137-4511-8DBC-50210053B540::net8.0::Dna.SoapEndpoint.Tests.Search_Ut.Should_Unlock_Domain_Async&lt;/TestId&gt;
+    &lt;TestId&gt;NUnit3x::B765C498-C137-4511-8DBC-50210053B540::net8.0::Dna.SoapEndpoint.Tests.Search_Ut.Should_Get_Domain_Detail_Async&lt;/TestId&gt;
+    &lt;TestId&gt;NUnit3x::B765C498-C137-4511-8DBC-50210053B540::net8.0::Dna.SoapEndpoint.Tests.Search_Ut.Should_Get_Domain_Detail_FromRegistry_Async&lt;/TestId&gt;
+    &lt;TestId&gt;NUnit3x::B765C498-C137-4511-8DBC-50210053B540::net8.0::Dna.SoapEndpoint.Tests.Search_Ut.Should_Save_Contact_Domain_Async&lt;/TestId&gt;
+    &lt;TestId&gt;NUnit3x::B765C498-C137-4511-8DBC-50210053B540::net8.0::Dna.SoapEndpoint.Tests.Search_Ut.Should_Sync_Domain_FromRegistry_Async&lt;/TestId&gt;
+    &lt;TestId&gt;NUnit3x::B765C498-C137-4511-8DBC-50210053B540::net8.0::Dna.SoapEndpoint.Tests.Search_Ut.Should_Register_Domain_Async&lt;/TestId&gt;
+    &lt;TestId&gt;NUnit3x::B765C498-C137-4511-8DBC-50210053B540::net8.0::Dna.SoapEndpoint.Tests.Search_Ut.Should_Renew_Domain_Async&lt;/TestId&gt;
+    &lt;TestId&gt;NUnit3x::B765C498-C137-4511-8DBC-50210053B540::net8.0::Dna.SoapEndpoint.Tests.Search_Ut.Should_Check_Avaibility_Single_Async&lt;/TestId&gt;
+    &lt;TestId&gt;NUnit3x::B765C498-C137-4511-8DBC-50210053B540::net8.0::Dna.SoapEndpoint.Tests.Search_Ut.Should_Get_Tld_List_Async&lt;/TestId&gt;
+  &lt;/TestAncestor&gt;
+&lt;/SessionState&gt;</s:String></wpf:ResourceDictionary>
