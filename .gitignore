@@ -1,1 +1,4 @@
 .DS_Store
+/Dna.SoapEndpoint.Tests/bin
+/Dna.SoapEndpoint.Tests/obj
+/.vs
